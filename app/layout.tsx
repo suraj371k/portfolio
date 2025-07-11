@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: 'Portfolio of Suraj Kushwaha, a Full Stack Developer specializing in MERN stack and Next.js.',
   icons: {
     icon: '/icon',
-  },
+  }, 
 };
 
 export default function RootLayout({
